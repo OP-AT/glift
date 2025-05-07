@@ -7,7 +7,7 @@ function Footer() {
       <div className="max-w-6xl mx-auto flex items-center justify-between">
         {/* Left: Logo */}
         <div className="text-2xl font-extrabold tracking-tight">
-          Floral studio
+          Glift
         </div>
 
         {/* Center: Navigation */}
