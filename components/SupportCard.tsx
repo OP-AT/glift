@@ -7,7 +7,7 @@ function SupportCard() {
       {/* Left Content */}
       <div className="flex-1 pr-6">
         <h3 className="text-xl font-extrabold text-[#1d1b24]">
-          24 hours customer support
+          78 hours Customer Support
         </h3>
         <p className="text-sm text-[#1d1b24] mt-1">
           We offer top-notch customer support to ensure that your experience with our bouquets is nothing short of exceptional.
